@@ -1,0 +1,18 @@
+<clients>
+  <client>
+    <client id="365789">
+      <nom>Deblock</nom>
+      <prenom>VIVIZZ</prenom>
+      <email>EQRAF@gzz.zfc</email>
+      <nom_fidelite>Bronze</nom_fidelite>
+    </client>
+  </client>
+  <client>
+    <client id="867331">
+      <nom>Deblock</nom>
+      <prenom>Vivien</prenom>
+      <email>vivien.deblock@edu.devinci.fr</email>
+      <nom_fidelite>Or</nom_fidelite>
+    </client>
+  </client>
+</clients>
